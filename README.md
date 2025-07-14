@@ -14,6 +14,7 @@ This app allows you to add, mark as done, and delete tasks — all saved in your
 - Clean and minimal UI
 
 ---
+
 ## 📸 Preview
 
-![App Screenshot](./asset/images/todolist.png)
+![App Screenshot](./asset/images/todolist.PNG)
