@@ -15,7 +15,7 @@ function renderItems() {
 
 addBtn.addEventListener("click", () => {
   if (!input.value.trim()) {
-    alert("لطفا فیلد خالی نفرست !");
+    alert("Please enter your Task.");
     return;
   }
   createTask(input.value);

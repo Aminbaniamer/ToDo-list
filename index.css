@@ -1,7 +1,5 @@
-@font-face {
-  font-family: "iranYekan";
-  src: url(./asset/fonts/IRANYekanRegular.ttf);
-}
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -11,7 +9,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: "iranYekan", sans-serif;
+  font-family: "Roboto", sans-serif;
   background: linear-gradient(
     0deg,
     rgba(34, 193, 195, 1) 0%,
@@ -57,7 +55,7 @@ input {
   box-shadow: rgba(5, 4, 4, 0.2) 0px 2px 8px 0px;
   padding: 5px 12px;
   cursor: pointer;
-  margin-right: 10px;
+  margin-left: 10px;
   border-radius: 10px;
 }
 .list {
