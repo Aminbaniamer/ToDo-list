@@ -18,4 +18,4 @@ This mini-project is built without any libraries.
 
 ## 📸 Preview
 
-![App Screenshot](./asset/images/todolist.PNG)
+![App Screenshot](./asset/images/todo.PNG)
