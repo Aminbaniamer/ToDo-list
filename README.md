@@ -2,6 +2,7 @@
 
 A simple and lightweight task manager built with vanilla JavaScript, HTML, and CSS.  
 This app allows you to add, mark as done, and delete tasks — all saved in your browser using `localStorage`.
+This mini-project is built without any libraries.
 
 ---
 
